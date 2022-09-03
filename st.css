@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 50px;
+    box-shadow: 5px 10px 5px red;    
+}
+
+#guardar{
+    width: 300px;
+    font-size: 30px;
+}
+#encabezado{
+    font-size: 40px;
+}
